@@ -1,0 +1,14 @@
+C:\Users\JULI\ReflectionExample\bin\Debug\net8.0\ReflectionExample.exe
+C:\Users\JULI\ReflectionExample\bin\Debug\net8.0\ReflectionExample.deps.json
+C:\Users\JULI\ReflectionExample\bin\Debug\net8.0\ReflectionExample.runtimeconfig.json
+C:\Users\JULI\ReflectionExample\bin\Debug\net8.0\ReflectionExample.dll
+C:\Users\JULI\ReflectionExample\bin\Debug\net8.0\ReflectionExample.pdb
+C:\Users\JULI\ReflectionExample\obj\Debug\net8.0\ReflectionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JULI\ReflectionExample\obj\Debug\net8.0\ReflectionExample.AssemblyInfoInputs.cache
+C:\Users\JULI\ReflectionExample\obj\Debug\net8.0\ReflectionExample.AssemblyInfo.cs
+C:\Users\JULI\ReflectionExample\obj\Debug\net8.0\ReflectionExample.csproj.CoreCompileInputs.cache
+C:\Users\JULI\ReflectionExample\obj\Debug\net8.0\ReflectionExample.dll
+C:\Users\JULI\ReflectionExample\obj\Debug\net8.0\refint\ReflectionExample.dll
+C:\Users\JULI\ReflectionExample\obj\Debug\net8.0\ReflectionExample.pdb
+C:\Users\JULI\ReflectionExample\obj\Debug\net8.0\ReflectionExample.genruntimeconfig.cache
+C:\Users\JULI\ReflectionExample\obj\Debug\net8.0\ref\ReflectionExample.dll
